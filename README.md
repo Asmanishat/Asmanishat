@@ -6,13 +6,11 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asmanishat" alt="asmanishat" /></a> </p>
 
 
-- 🌱 I’m currently learning **Java and Python**
+- 🌱 I’m currently learning **Machine Learning**
 
-- 🤝 I’m looking for help with **AWS**
+- 🤝 I’m looking for help with **LLM**
 
 - 📫 How to reach me **nishatasma13@gmail.com**
-
-- ⚡ Fun fact **I know it's crazy,but i love to irritate people**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
